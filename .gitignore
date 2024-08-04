@@ -1,0 +1,7 @@
+*.gexf
+.ipynb_checkpoints
+__pycache__
+wt*
+*.pickle
+*.pdf
+*.eps
